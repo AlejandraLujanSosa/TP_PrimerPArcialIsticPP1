@@ -27,43 +27,37 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="registro.php">Registrate <span class="sr-only">(current)</span></a>
+
+            <li class="nav-item">
+              <a class="nav-link" href=""></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Inhabilitado</a>
+              <a class="nav-link disabled" href=""></a>
             </li>
           </ul>
-          <form class="form-inline mt-2 mt-md-0">
-            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-          </form>
+          
         </div>
       </nav>
     </header>
 
     <!-- Begin page content -->
     <main role="main" class="container">
-      
-     <h1>Ingresar vehiculo</h1>
+     
 
-      <form action="hacer_ingreso.php">
-            Dominio:<br>
-            <input type="text" name="Dominio" value="">
-            <br>
-            Hora:<br>
-            <input type="text" name="Hora" value="">
-            <br><br>
-            <input type="submit" value="Submit">
-      </form> 
+     <form action="hacer_ingreso.php">
+  Dominio:<br>
+  <input type="text" name="Dominio" value="">
+  <br>
+  Hora:<br>
+  <input type="newday" name="Hora" value="">
+  <br><br>
+  <input type="submit" value="Ingresar">
+  </form> 
     </main>
 
     <footer class="footer">
       <div class="container">
-        <span class="text-muted">Place sticky footer content here.</span>
+        <span class="text-muted"></span>
       </div>
     </footer>
 

@@ -30,35 +30,26 @@
             <li class="nav-item active">
               <a class="nav-link" href="registro.php">Registrate <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Inhabilitado</a>
-            </li>
           </ul>
-          <form class="form-inline mt-2 mt-md-0">
-            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-          </form>
         </div>
       </nav>
     </header>
 
     <!-- Begin page content -->
     <main role="main" class="container">
-      
-      <h1>Ingresar vehiculo<h1>
+      <center> 
+      <h1 style= "color:blue";>Ingresar vehiculo<h1>
 
       <form action="hacer_ingreso.php">
-              Patente:<br>
-              <input type="text" name="Patente" value="">
+              Dominio:<br>
+              <input type="text" name="Dominio" value=""required>
               <br>
-              Fecha_de_ingreso:<br>
-              <input type="text" name="Fecha_de_ingreso" value="">
+              Fecha:<br>
+              <input type="text" name="Fecha" value="" max="22:00:00" min="07:00:00" step="1" required>
               <br><br>
-              <input type="submit" value="Submit">
-      </form> 
+              <input type="submit" value="Ingresar">
+       </form> 
+     </center>>
     </main>
 
     <footer class="footer">

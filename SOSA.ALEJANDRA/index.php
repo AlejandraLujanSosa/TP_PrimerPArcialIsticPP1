@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
+    <link rel="icon" href="favicon.ico"> 
+    
+    
 
-    <title>Sticky Footer Navbar Template for Bootstrap</title>
+    <title>Estacionamiento Sosa</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap.min.css" rel="stylesheet">
@@ -31,11 +33,9 @@
               <a class="nav-link" href="registro.php">Registrate <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Ingresar</a>
+              <a class="nav-link" href="login.php">Ingresar</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Inhabilitado</a>
-            </li>
+            
           </ul>
         </div>
       </nav>
@@ -43,13 +43,15 @@
 
     <!-- Begin page content -->
     <main role="main" class="container">
-      <h1 class="mt-5">Estacionamiento 24 hs</h1>
+      <h1 class="mt-5">Estacionamiento</h1>
       <p class="lead">Facil y rapido para los clientes con cualquier tipo de vehiculo.</p>
     </main>
-
+    <center>
+    <img src="https://www.proalt.es/wp-content/uploads/2018/09/techados-y-marquesinas-para-coches-en-parkings-y-estacionamientos.jpg"height="1000">
+  </center>
     <footer class="footer">
       <div class="container">
-        <span class="text-muted">Place sticky footer content here.</span>
+        <span class="text-muted"></span>
       </div>
     </footer>
 

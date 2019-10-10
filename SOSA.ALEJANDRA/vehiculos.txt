@@ -48,4 +48,3 @@
 {"Dominio":null,"Hora":null}
 {"Dominio":null,"Hora":null}
 {"Usuario":"alex","Clave":"1542"}
-{"Usuario":"alex","Clave":"4580"}
