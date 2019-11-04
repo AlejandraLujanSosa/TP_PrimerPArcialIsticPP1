@@ -1,0 +1,10 @@
+{"Patente":"kze 398","FechaEntrada":"03-11-19 22:54:52","FechaSalida":"03-11-19 23:01:30","Precio":"12"}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
+{"Patente":null,"FechaEntrada":null,"FechaSalida":null,"Precio":null}
